@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+h4 {
+  margin: 0;
+}
+
+.kanban-board {
+  padding: 20px;
+}
+
+.kanban-column h3 {
+  margin: 0;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
